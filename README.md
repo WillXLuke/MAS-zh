@@ -53,20 +53,3 @@
 <div align="center">
 	
 ### 主页 - [https://massgrave.dev/](https://massgrave.dev/)
-  
-[![1.1]][1]
-[![1.2]][2]
-[![1.3]][3]
-[![1.4]][4]
-[![1.5]][5]
-[![1.6]][6]
-[![1.7]][7]
-
-[1.1]: https://massgrave.dev/img/logo_discord.png (无需注册即可与我们聊天)
-[1.2]: https://massgrave.dev/img/logo_reddit.png (Reddit)
-[1.3]: https://massgrave.dev/img/logo_bluesky.png (Bluesky)
-[1.4]: https://massgrave.dev/img/logo_x.png (Twitter)
-
-[1.5]: https://massgrave.dev/img/logo_github.png (GitHub)
-[1.6]: https://massgrave.dev/img/logo_azuredevops.png (AzureDevOps)
-[1.7]: https://massgrave.dev/img/logo_gitea.png (自托管 Git)
