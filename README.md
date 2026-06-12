@@ -1,8 +1,6 @@
 ## This is a fork of MAS and providing Simplified Chinese support.
 
 
-<p align="center"><img src="https://massgrave.dev/img/logo_small.png" alt="MAS Logo"></p>
-
 <h1 align="center">Microsoft  Activation  Scripts (MAS)</h1>
 
 <p align="center">开源的 Windows 和 Office 激活工具，支持 HWID、Ohook、TSforge 和 Online KMS 激活方式，并提供高级故障排除功能。</p>
@@ -72,16 +70,3 @@
 [1.5]: https://massgrave.dev/img/logo_github.png (GitHub)
 [1.6]: https://massgrave.dev/img/logo_azuredevops.png (AzureDevOps)
 [1.7]: https://massgrave.dev/img/logo_gitea.png (自托管 Git)
-
-[1]: https://discord.gg/j2yFsV5ZVC
-[2]: https://www.reddit.com/r/MAS_Activator
-[3]: https://bsky.app/profile/massgrave.dev
-[4]: https://twitter.com/massgravel
-[5]: https://github.com/massgravel/Microsoft-Activation-Scripts
-[6]: https://dev.azure.com/massgrave/_git/Microsoft-Activation-Scripts
-[7]: https://git.activated.win/Microsoft-Activation-Scripts
-
----
-
-最新版本：3.11  
-发布日期：2026年5月2日
