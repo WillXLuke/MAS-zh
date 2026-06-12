@@ -1,4 +1,4 @@
-## This is a fork of MAS and providing Simplified Chinese support.
+## This is a fork of MAS providing Simplified Chinese support.
 
 
 <h1 align="center">Microsoft  Activation  Scripts (MAS)</h1>
